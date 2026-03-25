@@ -38,9 +38,9 @@ This was a group project completed with other students. My contribution focused 
 - Interpreting simulation outputs
 
 ## Files Included
+- `task-brief.pdf` — original coursework brief
 - `insurance-ruin-simulation.R` — R code for the simulation and analysis
 - `group-report.pdf` — final group report
-- `task-brief.pdf` — original coursework brief
 
 ## Note
 This repository is included as part of my academic portfolio. It was completed as group coursework and is not presented as solely my individual work.
