@@ -23,10 +23,10 @@ The project models the insurer’s fund over 40 quarters and estimates ruin prob
 
 ## My Contribution
 This was a group project completed with other students. My contribution focused on:
-- analysis
-- simulation development
-- testing
-- interpretation of results
+- contributing to Monte Carlo simulation development in R
+- testing how ruin probabilities changed under different dependence assumptions
+- analysing outputs across different economic scenarios
+- helping interpret the results of the model extension
 
 ## Skills Demonstrated
 - R programming
